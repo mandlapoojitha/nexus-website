@@ -1,0 +1,18 @@
+{
+  "id" : "Aura_Footer_V2",
+  "markupLanguage" : "HANDLEBARS",
+  "defaults" : {
+    "config" : {
+      "applicablePages" : [ ],
+      "dynamicByCoreNode" : false,
+      "description" : "Footer component intended for header/footer page template.",
+      "fetchedContent" : null
+    },
+    "props" : [ ]
+  },
+  "components" : [ {
+    "id" : "custom.widget.Aura_Footer_V2"
+  } ],
+  "grouping" : "CUSTOM",
+  "aboutThis" : null
+}
