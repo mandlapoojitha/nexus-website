@@ -1,0 +1,18 @@
+{
+  "id" : "Aura_footer",
+  "markupLanguage" : "HTML",
+  "defaults" : {
+    "config" : {
+      "applicablePages" : [ ],
+      "dynamicByCoreNode" : false,
+      "description" : "",
+      "fetchedContent" : null
+    },
+    "props" : [ ]
+  },
+  "components" : [ {
+    "id" : "custom.widget.Aura_footer"
+  } ],
+  "grouping" : "TEXTHTML",
+  "aboutThis" : null
+}
